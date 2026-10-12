@@ -1,6 +1,12 @@
 # 💫 About Me:
-I am a final-year B.Tech (CSIT) student building my foundation in Java and Full-Stack development. I enjoy the process of turning logic into functional web applications, like my recent project SCM 2.0.<br><br>I have a deep interest in understanding the core flow of code. Instead of just making things work, I like to go deep into the "how" and "why" of every function—whether it’s tracing how data moves through a database or how security layers protect a user. I am currently focused on improving my coding standards and learning to deploy projects to live servers.<br><br>I am looking for a junior role where I can solve real-world problems and learn from experienced engineers.
+### Hi there, I'm Arun Sharma 👋
 
+I am a **B.Tech (CSIT) graduate** specializing in **Java Backend and Full-Stack Development**. I don't just build features to make them work—I care deeply about code flow, architecture, and what happens under the hood (from database persistence to security filter chains).
+
+- 🔭 **Key Project:** [Contact Sphere](https://github.com/arunshar2725/Contact-Sphere) — A secure contact management platform featuring OAuth2 authentication, multi-stage Docker builds, and cloud deployment.
+- 🛠️ **Tech Stack:** Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, Docker, REST APIs
+- 🎯 **Current Focus:** Writing clean, maintainable code, optimizing API workflows, and mastering containerized deployments.
+- 💼 **Looking For:** Junior Java Backend / Software Engineer roles where I can contribute to production systems and learn from experienced engineering teams.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arunsharma._07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunsharma2725/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunshar2725@gmail.com) 
